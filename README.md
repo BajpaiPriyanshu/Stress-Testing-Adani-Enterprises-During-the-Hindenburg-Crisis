@@ -50,8 +50,6 @@ The project implements the following risk models from scratch using `scipy.optim
 
 **Key Insight:** Even the most conservative models (EVT) underestimated the tail risk by a factor of ~4x, demonstrating that historical price data cannot predict qualitative regime changes (e.g., fraud allegations).
 
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 This project uses **simulated data** for educational and research purposes. It is not financial advice.
